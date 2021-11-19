@@ -1,5 +1,5 @@
 .nav-bar{
-    background-color: #20232a;
+    background-color: #2E3440;
     height: 45px;
     width: 100%;
     display: flex;
@@ -48,7 +48,7 @@ a{
     }
     .active-link{
         border-bottom: none;
-        padding: 5px;
+        padding: 10px;
     }
     .nav-link{
         margin-left: 15px;

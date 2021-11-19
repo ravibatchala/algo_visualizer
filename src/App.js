@@ -8,7 +8,7 @@ import SortingVisualizer from './components/SortingVisualizer/SortingVisualizer'
 function App() {
   return (
     <div className="app">
-     <NavBar />
+    <NavBar/>
       <Switch>
         <Route exact path = '/' component={SearchVisualizer} />
         <Route exact path = '/sortingvisualizer' component={SortingVisualizer} />

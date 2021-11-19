@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import NavBar from './NavBar';
 import { Route, Switch } from 'react-router-dom';
-import SearchVisualizer from './SearchingVisualizer/SearchingVisualizer';
-import SortingVisualizer from './SortingVisualizer/SortingVisualizer';
+import SearchVisualizer from './components/SearchingVisualizer/SearchingVisualizer';
+import SortingVisualizer from './components/SortingVisualizer/SortingVisualizer';
 
 function App() {
   return (

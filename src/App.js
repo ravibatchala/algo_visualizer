@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import NavBar from './NavBar';
+import NavBar from './components/NavBar/NavBar';
 import { Route, Switch } from 'react-router-dom';
 import SearchVisualizer from './components/SearchingVisualizer/SearchingVisualizer';
 import SortingVisualizer from './components/SortingVisualizer/SortingVisualizer';
